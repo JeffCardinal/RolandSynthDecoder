@@ -7,7 +7,7 @@
 using namespace std;
 
 int main() {
-	FILE * file_path = fopen("D-50/ROM-Copy.bin", "r");
+	FILE * file_path = fopen("D-50/Roland-D50-PCM-ROM-B-IC29.bin", "r");
 	if (file_path == NULL) perror ("Error opening file");
 	int FILE_SIZE = 524288;
 	int16_t sample_data[FILE_SIZE / 2];
