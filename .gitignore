@@ -1,9 +1,0 @@
-.vscode/
-bin/
-D-50/
-D-70/
-/ROM_Decoder.dSYM
-/ROM_Decoder_Legacy.dSYM
-/ROM_Decoder_Improved.dSYM
-*.bin
-*.zip
